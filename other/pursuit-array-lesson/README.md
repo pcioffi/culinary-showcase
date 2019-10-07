@@ -42,7 +42,6 @@
 * Know what destructuring assignment is and how to use it. 
 
 ## Lesson Overview
-<details>
 An array provides a convenient way to store a collection of **things**. Say we want to keep the numbers `2, 3, 5, 7, and 11` all in one place. Instead of creating five separate variables we can create an array to store all these values. To create an array, we use the `[` and `]` brackets, and in between put whatever values we need separated by commas. We can also call “new” on the Array class and pass in the elements desired.
 
 ```js
@@ -72,7 +71,7 @@ It is, however, **BEST** practice to use the same data type across all elements 
 
 Arrays can be accessed like strings; as in, we can call various methods with arrays just like you can with strings. And like strings, you can access the `length` property of an array.
 
-### Array Property `length`
+<details><summary>**Array Property `length`**</summary>
 We can access the first element of the array by using index `0`, and the last by using index `array.length – 1`
 
 ```js
