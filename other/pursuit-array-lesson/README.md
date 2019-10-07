@@ -41,10 +41,8 @@
 * Know what a multidimensional array is and how to index / key into it. 
 * Know what destructuring assignment is and how to use it. 
 
+## Lesson Overview
 <details>
-  <summary>
-    ## Lesson Overview
-  </summary>
 An array provides a convenient way to store a collection of **things**. Say we want to keep the numbers `2, 3, 5, 7, and 11` all in one place. Instead of creating five separate variables we can create an array to store all these values. To create an array, we use the `[` and `]` brackets, and in between put whatever values we need separated by commas. We can also call “new” on the Array class and pass in the elements desired.
 
 ```js
