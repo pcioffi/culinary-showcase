@@ -71,7 +71,7 @@ It is, however, **BEST** practice to use the same data type across all elements 
 
 Arrays can be accessed like strings; as in, we can call various methods with arrays just like you can with strings. And like strings, you can access the `length` property of an array.
 
-<details><summary>**Array Property `length`**</summary>
+## Array Property `length`
 We can access the first element of the array by using index `0`, and the last by using index `array.length – 1`
 
 ```js
