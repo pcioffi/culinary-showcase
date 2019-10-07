@@ -41,7 +41,10 @@
 * Know what a multidimensional array is and how to index / key into it. 
 * Know what destructuring assignment is and how to use it. 
 
-## Lesson Overview
+<details>
+  <summary>
+    ## Lesson Overview
+  </summary>
 An array provides a convenient way to store a collection of **things**. Say we want to keep the numbers `2, 3, 5, 7, and 11` all in one place. Instead of creating five separate variables we can create an array to store all these values. To create an array, we use the `[` and `]` brackets, and in between put whatever values we need separated by commas. We can also call “new” on the Array class and pass in the elements desired.
 
 ```js
@@ -82,6 +85,7 @@ console.log(animals[animals.length -1]) // this will print 'giraffe'
 ```
 
 Why `array.length – 1` you may ask? Well the `array.length` returns the amount of elements in an array, which when we normally start counting something we start at the number 1. But when the computer works with indexes, `0` is the starting place for the array. So we need to minus 1 or else we'll be one higher than the highest position of the array. This will cause an **Array Out of Bounds** error, and as you might guess that's a problem.
+</details>
 
 ## Access and Modifying Arrays
 We can modify array elements so long as we know the element and it's index we want to change:
