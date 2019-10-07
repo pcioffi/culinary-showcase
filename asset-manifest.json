@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/culinary-showcase/static/js/main.b83e2f9e.chunk.js",
+    "main.js.map": "/culinary-showcase/static/js/main.b83e2f9e.chunk.js.map",
+    "runtime-main.js": "/culinary-showcase/static/js/runtime-main.4d114784.js",
+    "runtime-main.js.map": "/culinary-showcase/static/js/runtime-main.4d114784.js.map",
+    "static/js/2.98a9e70e.chunk.js": "/culinary-showcase/static/js/2.98a9e70e.chunk.js",
+    "static/js/2.98a9e70e.chunk.js.map": "/culinary-showcase/static/js/2.98a9e70e.chunk.js.map",
+    "index.html": "/culinary-showcase/index.html",
+    "precache-manifest.90a5f97318b1d19523d4f6c438012dc5.js": "/culinary-showcase/precache-manifest.90a5f97318b1d19523d4f6c438012dc5.js",
+    "service-worker.js": "/culinary-showcase/service-worker.js",
+    "static/media/Culinary-Logo-Text.png": "/culinary-showcase/static/media/Culinary-Logo-Text.cb6ba5e8.png"
+  }
+}
