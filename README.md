@@ -1,4 +1,4 @@
-# Pursuit Work Prompt Showcase
+# Pursuit Work Prompts
 ## Work Prompt Part 1
 [Arrays Lesson](./other/pursuit-array-lesson/README.md)
 
