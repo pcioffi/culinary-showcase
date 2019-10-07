@@ -8,4 +8,5 @@
 
 ## Work Prompt Part 2
 [Culin.ARY](https://pcioffi.github.io/culinary-showcase/)
+
 Database done in Firebase (request access via my email)
